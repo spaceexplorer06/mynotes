@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66915416626",
+    "project_id": "my-notes-new-flutter-app-06",
+    "storage_bucket": "my-notes-new-flutter-app-06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66915416626:android:1fe3611601a5cae0401a2b",
+        "android_client_info": {
+          "package_name": "com.Spaceexplorer06.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOkPHh-PBeCuwh2SyQqLcptJw8mY2FuDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
